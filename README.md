@@ -1,32 +1,20 @@
-# About
+# Ramme Jekyll Theme
+    
+######(If you like this theme or using it, please give a :star: for motivation.)
 
-This is my blog based on jekyll. And I change the style and interactive. If you want to use this model of the blog. **Please give a star at this repository**. Then you can clone it as your blog model.
+**[Ramme](http://taylantatli.github.io/Ramme)** is a simple jekyll theme.
 
-You can visit [here](http://gaohaoyang.github.io) to see this blog.
+I made this theme after seeing this [screenshot](http://spoonm.org/share/rice/01.png). I took some parts from @mmistakes, like TOC, sample posts. I never tought making a theme from scratch would be this hard. And it's still WIP.
+     
+I'm not a designer or something, so I'm sure there is a better way to make this theme. But it's working and looks acceptable for different screen sizes. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
 
----
+## Preview
 
-这是我的博客，基于 jekyll。我改了所有默认的样式和交互。如果你想使用这个博客模板。**请先在这个仓库上点个star吧**，这也是对我的肯定和鼓励，谢谢了。然后你可以克隆这个仓库用作你自己的博客。
+![screenshot of Ramme](/assets/img/screenshot-home.png)    
+![screenshot of Ramme](/assets/img/screenshot-post.png)
 
-博客访问地址：[点击这里](http://gaohaoyang.github.io)
+See a [live version of Ramme](http://taylantatli.github.io/Ramme) hosted on GitHub.
 
-**使用时请注明模板来源:  Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+## Getting Started
 
-<!--
-
-## 被引用信息
-
-使用了我的模板并写明来源的人：   
-
-* [dreamholy](http://dreamholy.github.io/)
-
-没有注明来源的人：
-
-* [yangshuailing](http://yangshuailing.github.io/com/)
-* [huapu728](http://huapu728.github.io/)
-* [greatbuger](http://greatbuger.github.io/) 
-
-
--->
-
-
+To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Ramme/ramme-theme/) for more information.
