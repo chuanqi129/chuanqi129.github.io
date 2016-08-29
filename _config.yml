@@ -1,10 +1,10 @@
 # Site
-title:          Ramme
-bio:            'Just a simple Jekyll theme'
-description:    "Simple Jekyll theme for your blog by Taylan Tatlı"
+title:          给自己定个小目标
+bio:            '跟它耍耍'
+description:    "码出个未来"
 picture:        'assets/img/Logo.png'
 locale:         en_US
-url:            http://taylantatli.me/Ramme
+url:            http://chuanqi129.github.io
 
 # Jekyll
 permalink:      /:title/
@@ -23,8 +23,8 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #email:
-twitter: username
-facebook: username
+twitter: chuanqi129
+facebook: zhuangbility
 #google:
   #plus: #username
   #analytics:
@@ -32,7 +32,7 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
+github: chuanqi129
 stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin: username
 #xing: username
@@ -43,7 +43,7 @@ tumblr: username
 #foursquare: username
 steam: username
 #dribbble: username
-youtube: username
+youtube: chuanqi129
 #soundcloud: username
 #weibo: username
 #flickr: username
